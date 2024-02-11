@@ -15,10 +15,16 @@ Mixed representations is the phenomenon in which motor information is encoded an
 # Methods and results
 For methods and results please check the following colab notebooks, each pertaining to either the Stimulation or Spontaneous condition:
 
+- [Stringer_stimulation_models.ipynb](https://github.com/Aleman-Z/StringerNeurons/blob/main/Stringer_stimulation_models.ipynb) 
+- [Stringer_spontaneous_models.ipynb](https://github.com/Aleman-Z/StringerNeurons/blob/main/Stringer_spontaneous_models.ipynb)
 
 # Conclusions
 
 - Neurons active during High-motion period showed higher mixed representations. 
 - Prediction improved with combined sensory+motor features as inputs, except for non-motor neurons.  
 - Lack of stimulus in spontaneous condition led to worse prediction.
-- Common neurons (Low-motion) during spontaneous condition potentially a signature of resting-state replay.  
+- Common neurons (Low-motion) during spontaneous condition potentially a signature of resting-state replay.
+
+# Final presentation
+The slides for our final presentation can be consulted [here](https://github.com/Aleman-Z/StringerNeurons/blob/main/Project_mixed_representations.pdf). 
+
