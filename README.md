@@ -26,5 +26,5 @@ For methods and results please check the following colab notebooks, each pertain
 - Common neurons (Low-motion) during spontaneous condition potentially a signature of resting-state replay.
 
 # Final presentation
-The slides for our final presentation can be consulted [here](https://github.com/Aleman-Z/StringerNeurons/blob/main/Project_mixed_representations.pdf). 
+The slides of our final presentation can be consulted [here](https://github.com/Aleman-Z/StringerNeurons/blob/main/Project_mixed_representations.pdf). 
 
