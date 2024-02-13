@@ -18,6 +18,9 @@ For methods and results please check the following colab notebooks, each pertain
 - [Stringer_stimulation_models.ipynb](https://github.com/Aleman-Z/StringerNeurons/blob/main/Stringer_stimulation_models.ipynb) 
 - [Stringer_spontaneous_models.ipynb](https://github.com/Aleman-Z/StringerNeurons/blob/main/Stringer_spontaneous_models.ipynb)
 
+For an attempt using neuronal networks:
+- [Neural_network_Stringer_stimulation_models.ipynb](https://github.com/Aleman-Z/StringerNeurons/blob/main/Neural_network_Stringer_stimulation_models.ipynb)
+
 # Conclusions
 
 - Neurons active during High-motion period showed higher mixed representations. 
